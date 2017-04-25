@@ -18,6 +18,6 @@ public class MySqlDb {
     public void method(){
 
         personDao.count();
-        jdbcTemplate.queryForList("select * from customer");
+        jdbcTemplate.queryForList("select * from person");
     }
 }
