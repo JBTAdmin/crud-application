@@ -1,4 +1,4 @@
-# crud-application
+# crud-application (CAN BE : REFERENCE TO OTHER PROJECT)
 
 mvn package
 
